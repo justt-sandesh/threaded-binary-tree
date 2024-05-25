@@ -1,1 +1,1 @@
-# threaded-binary-tree
+A threaded binary tree is a type of binary tree that uses pointers (threads) to make in-order traversal more efficient without using a stack or recursion. This is achieved by utilizing the NULL pointers in a standard binary tree.
